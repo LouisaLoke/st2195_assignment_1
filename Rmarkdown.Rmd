@@ -1,0 +1,18 @@
+---
+title: "R Markdown"
+output: html_document
+date: "2022-09-25"
+---
+## R Markdown file for the assignment
+### This includes code from **R** and **Python**
+
+```{r}
+for(var in 1:10)
+{
+  print(var)
+}
+```
+```{python}
+for i in range(1, 11):
+    print (i)
+```    
